@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Your Daily Horoscope</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <!-- SimpleChannel9Reader references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+</head>
+<body>
+<div id="main">
+    <div id="C9ItemTemplate" data-win-control="WinJS.Binding.Template" style="display: none;">
+    <div class="listItemTemplate">
+        <div class="listItemTitle" data-win-bind="innerText: title">
+        </div>
+        <div class="listItemDesc" data-win-bind="innerHTML: desc.textContent"></div>
+    </div>
+</div>
+
+    <header id="banner">
+        <button id="backbutton" onclick="exit" class="win-backbutton">
+        </button>
+        <h1 id="maintitle" class="win-title">Daily Horoscope</h1>
+           <span id="subTitle" class="win-label">from <a href="http://www.astrology.com" style="color:#fff; text-decoration:none;">Astrology.com</a></span>
+    </header>
+    <section id="content">
+        <div id="articlelist" data-win-control="WinJS.UI.ListView" data-win-options="{ itemDataSource: C9Data.ItemList.dataSource, itemTemplate: C9ItemTemplate }"></div> 
+    </section>
+</div>
+
+</body>
+</html>
