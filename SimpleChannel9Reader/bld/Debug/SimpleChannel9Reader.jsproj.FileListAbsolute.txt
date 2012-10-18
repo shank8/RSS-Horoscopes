@@ -1,0 +1,27 @@
+c:\users\davrous\documents\visual studio 2012\Projects\SimpleChannel9Reader\SimpleChannel9Reader\bin\Debug\resources.pri
+c:\users\davrous\documents\visual studio 2012\Projects\SimpleChannel9Reader\SimpleChannel9Reader\bin\Debug\AppxManifest.xml
+c:\users\davrous\documents\visual studio 2012\Projects\SimpleChannel9Reader\SimpleChannel9Reader\bin\Debug\SimpleChannel9Reader.build.appxrecipe
+c:\users\davrous\documents\visual studio 2012\Projects\SimpleChannel9Reader\SimpleChannel9Reader\bld\Debug\priconfig.xml
+c:\users\davrous\documents\visual studio 2012\Projects\SimpleChannel9Reader\SimpleChannel9Reader\bld\Debug\layout.resfiles
+c:\users\davrous\documents\visual studio 2012\Projects\SimpleChannel9Reader\SimpleChannel9Reader\bld\Debug\resources.resfiles
+c:\users\davrous\documents\visual studio 2012\Projects\SimpleChannel9Reader\SimpleChannel9Reader\bld\Debug\pri.resfiles
+c:\users\davrous\documents\visual studio 2012\Projects\SimpleChannel9Reader\SimpleChannel9Reader\bld\Debug\LanguageQualifiers.txt
+c:\users\davrous\documents\visual studio 2012\Projects\SimpleChannel9Reader\SimpleChannel9Reader\bld\Debug\ProjectArchitectures.txt
+C:\Users\davrous\Documents\Visual Studio 2012\Projects\SimpleChannel9ReaderPart1\SimpleChannel9Reader\bin\Debug\resources.pri
+C:\Users\davrous\Documents\Visual Studio 2012\Projects\SimpleChannel9ReaderPart1\SimpleChannel9Reader\bin\Debug\AppxManifest.xml
+C:\Users\davrous\Documents\Visual Studio 2012\Projects\SimpleChannel9ReaderPart1\SimpleChannel9Reader\bin\Debug\SimpleChannel9Reader.build.appxrecipe
+C:\Users\davrous\Documents\Visual Studio 2012\Projects\SimpleChannel9ReaderPart1\SimpleChannel9Reader\bld\Debug\priconfig.xml
+C:\Users\davrous\Documents\Visual Studio 2012\Projects\SimpleChannel9ReaderPart1\SimpleChannel9Reader\bld\Debug\layout.resfiles
+C:\Users\davrous\Documents\Visual Studio 2012\Projects\SimpleChannel9ReaderPart1\SimpleChannel9Reader\bld\Debug\resources.resfiles
+C:\Users\davrous\Documents\Visual Studio 2012\Projects\SimpleChannel9ReaderPart1\SimpleChannel9Reader\bld\Debug\pri.resfiles
+C:\Users\davrous\Documents\Visual Studio 2012\Projects\SimpleChannel9ReaderPart1\SimpleChannel9Reader\bld\Debug\LanguageQualifiers.txt
+C:\Users\davrous\Documents\Visual Studio 2012\Projects\SimpleChannel9ReaderPart1\SimpleChannel9Reader\bld\Debug\ProjectArchitectures.txt
+C:\Users\Matt\SimpleChannel9Reader\bin\Debug\resources.pri
+C:\Users\Matt\SimpleChannel9Reader\bin\Debug\AppxManifest.xml
+C:\Users\Matt\SimpleChannel9Reader\bin\Debug\SimpleChannel9Reader.build.appxrecipe
+C:\Users\Matt\SimpleChannel9Reader\bld\Debug\priconfig.xml
+C:\Users\Matt\SimpleChannel9Reader\bld\Debug\layout.resfiles
+C:\Users\Matt\SimpleChannel9Reader\bld\Debug\resources.resfiles
+C:\Users\Matt\SimpleChannel9Reader\bld\Debug\pri.resfiles
+C:\Users\Matt\SimpleChannel9Reader\bld\Debug\LanguageQualifiers.txt
+C:\Users\Matt\SimpleChannel9Reader\bld\Debug\ProjectArchitectures.txt
