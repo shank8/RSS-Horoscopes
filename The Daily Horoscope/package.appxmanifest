@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="31342DaemonDeveloper.TheDailyHoroscope" Version="1.0.0.1" Publisher="CN=61D665C0-9695-45EF-BA1E-14369EC75752" />
+  <Properties>
+    <DisplayName>The Daily Horoscope</DisplayName>
+    <PublisherDisplayName>DaemonDeveloper</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="default.html">
+      <VisualElements DisplayName="The Daily Horoscope" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="The Daily Horoscope" ForegroundText="light" BackgroundColor="#377DED">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="images\splashscreen.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

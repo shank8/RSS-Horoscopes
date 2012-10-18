@@ -1,0 +1,13 @@
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\The Daily Horoscope\The Daily Horoscope\bin\Debug\resources.pri
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\The Daily Horoscope\The Daily Horoscope\bin\Debug\AppxManifest.xml
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\The Daily Horoscope\The Daily Horoscope\bin\Debug\The Daily Horoscope.build.appxrecipe
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\The Daily Horoscope\The Daily Horoscope\bld\Debug\priconfig.xml
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\The Daily Horoscope\The Daily Horoscope\bld\Debug\layout.resfiles
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\The Daily Horoscope\The Daily Horoscope\bld\Debug\resources.resfiles
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\The Daily Horoscope\The Daily Horoscope\bld\Debug\pri.resfiles
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\The Daily Horoscope\The Daily Horoscope\bld\Debug\LanguageQualifiers.txt
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\The Daily Horoscope\The Daily Horoscope\bld\Debug\ProjectArchitectures.txt
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\The Daily Horoscope\The Daily Horoscope\bld\Debug\priconfig.xml.intermediate
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\The Daily Horoscope\The Daily Horoscope\bld\Debug\layout.resfiles.intermediate
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\The Daily Horoscope\The Daily Horoscope\bld\Debug\resources.resfiles.intermediate
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\The Daily Horoscope\The Daily Horoscope\bld\Debug\pri.resfiles.intermediate
